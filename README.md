@@ -3,7 +3,7 @@
 A modern, fast, and fully responsive personal portfolio built using **Next.js**, showcasing my skills, projects, experience, and contact information. This site is designed to highlight my journey as a front-end developer and provide recruiters with a clean and professional overview of my work.
 
 🚀 **Live Demo:**  
-👉 https://portfolio-soud-rosy.vercel.app/
+👉 https://portfolio-soudharoon.vercel.app/
 
 ---
 
