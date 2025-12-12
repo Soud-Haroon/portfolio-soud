@@ -43,7 +43,7 @@ A modern, fast, and fully responsive personal portfolio built using **Next.js**,
 
 ## 📸 Preview
 
-![Portfolio Preview](/preview-banner.png)
+![Portfolio Preview](/public/preview-banner.png)
 
 ---
 
